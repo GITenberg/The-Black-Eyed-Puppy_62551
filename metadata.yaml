@@ -1,5 +1,8 @@
 _repo: The-Black-Eyed-Puppy_62551
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62551-h/images/cover.jpg
 creator:
   author:
     agent_name: Pyle, Katharine
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62551#The-Black-Eyed-Puppy
 gutenberg_issued: '2020-07-04'
 gutenberg_type: Text
 identifiers:
